@@ -1,0 +1,14 @@
+{
+  "title": "BROcKEN REICH",
+  "subtitle": "BROcKEN REICH RPG 서버 소개 (개발용 예시)",
+  "sections": [
+    {
+      "heading": "서버 소개",
+      "body": "BROcKEN REICH는 고유한 RPG 전투, 장비, 스탯 시스템을 개발하고 있는 Minecraft 서버 프로젝트입니다. 정확한 소개 문구는 운영자가 작성한 about.json으로 대체해주세요."
+    },
+    {
+      "heading": "게임 시스템",
+      "body": "커스텀 장비, 스킬, 애니메이션, 파티, 소속 등 다양한 시스템의 설명을 이 페이지에 게시할 수 있습니다."
+    }
+  ]
+}
