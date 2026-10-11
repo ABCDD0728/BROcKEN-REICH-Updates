@@ -1,8 +1,8 @@
 {
     "launcher":  {
-                     "version":  "1.1.0",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/BROcKEN_REICH_Launcher-1.1.0.exe",
-                     "sha256":  "febc6a5e5e29a22a8692b236f07e4e0ea9faf21a07d6a30738e4b46727bdce74"
+                     "version":  "1.1.2",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.2/BROcKEN_REICH_Launcher-1.1.2.exe",
+                     "sha256":  "d3a1b0a6c9ff2f4fc86f6cbeeed352920cee37a74dbf29504db79cbaf4fb79b3"
                  },
     "maintenance":  false,
     "mods":  [
