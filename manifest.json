@@ -8,32 +8,32 @@
     "mods":  [
                  {
                      "file":  "BROcKEN_Animation-0.8.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/BROcKEN_Animation-0.8.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/BROcKEN_Animation-0.8.0.jar",
                      "sha256":  "e90eae3a5fb89bf5c8272cac85022183764bcfc4c8a9e5bd28984d0b766707c7"
                  },
                  {
                      "file":  "brocken_gui-1.1.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/brocken_gui-1.1.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/brocken_gui-1.1.0.jar",
                      "sha256":  "9e324d847874576d67dd04d04373622af22130e9257fc6f8eaee5c91272ab2e5"
                  },
                  {
-                     "file":  "BROcKEN_Inventory-0.1.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/BROcKEN_Inventory-0.1.0.jar",
-                     "sha256":  "528dfdcab790b2814c3f51b3609dc630491ef0ab0d81db9128b257c5009cd400"
+                     "file":  "BROcKEN_Inventory-1.0.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/BROcKEN_Inventory-1.0.0.jar",
+                     "sha256":  "6461febd4cbff329d485a52e3d413fec42813e1f3b62a37a3d1e2187fa07cd8d"
                  },
                  {
                      "file":  "brocken_reich-client-2.0.7.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/brocken_reich-client-2.0.7.jar",
-                     "sha256":  "16429578572d72f047848ef56abc99ec9a430f8084689459d111a3072600cb9e"
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/brocken_reich-client-2.0.7.jar",
+                     "sha256":  "cd9490cdf19144a5a47ac34475a649308bb2ed34a4cbbf1a5de97829421ba02e"
                  },
                  {
                      "file":  "fabric-api-0.136.1+1.21.8.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/fabric-api-0.136.1%2B1.21.8.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/fabric-api-0.136.1%2B1.21.8.jar",
                      "sha256":  "24c2c9c7fa1f969982ddf142a5f17b356b88a5eb1cb1ece9c287a588f3451233"
                  },
                  {
                      "file":  "PlayerAnimationLibFabric-1.1.1+mc.1.21.8.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/v1.1.0/PlayerAnimationLibFabric-1.1.1%2Bmc.1.21.8.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/PlayerAnimationLibFabric-1.1.1%2Bmc.1.21.8.jar",
                      "sha256":  "4a94cf5bb5fde5d6db718be056ecd129e39f1cc0f84ae3af59c80647837c39ce"
                  }
              ],
