@@ -17,9 +17,9 @@
                      "sha256":  "9e324d847874576d67dd04d04373622af22130e9257fc6f8eaee5c91272ab2e5"
                  },
                  {
-                     "file":  "BROcKEN_Inventory-1.0.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/BROcKEN_Inventory-1.0.0.jar",
-                     "sha256":  "6461febd4cbff329d485a52e3d413fec42813e1f3b62a37a3d1e2187fa07cd8d"
+                     "file":  "BROcKEN_Inventory-2.0.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/V1.2.0/BROcKEN_Inventory-2.0.0.jar",
+                     "sha256":  "b5199b217a48bedf049a6cf212681918c4b0a072201bf4c142d70f5d1e08209b"
                  },
                  {
                      "file":  "brocken_reich-client-2.1.0.jar",
