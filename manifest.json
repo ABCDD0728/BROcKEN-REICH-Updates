@@ -7,9 +7,9 @@
     "maintenance":  false,
     "mods":  [
                  {
-                     "file":  "BROcKEN_Animation-1.3.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261022-075021365/BROcKEN_Animation-1.3.0.jar",
-                     "sha256":  "bcf1f87bd0d104181860a9ea4abc3a016ffedd1373b691fa6b7839bae206c59b"
+                     "file":  "BROcKEN_Animation-1.4.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261022-081025456/BROcKEN_Animation-1.4.0.jar",
+                     "sha256":  "72d25f5e70f9c2a340f65f8308dbb64c20609d9bccf9a0330e67241cbc555a68"
                  },
                  {
                      "file":  "brocken_gui-1.1.0.jar",
