@@ -22,9 +22,9 @@
                      "sha256":  "88298c5123495f4fc35cb17ff5c026ed9a5bb8486aaceb8ad82925bac081d940"
                  },
                  {
-                     "file":  "brocken_reich-client-2.3.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261102-105252861/brocken_reich-client-2.3.0.jar",
-                     "sha256":  "5e89b8ecd331efb2a38a3cbb39306b63ae1c691d70fe660f1ebe8d8096d07168"
+                     "file":  "brocken_reich-client-2.3.1.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261102-115308868/brocken_reich-client-2.3.1.jar",
+                     "sha256":  "279a599587017bd99dcffdb95feaf4e092db73780ada0a29eda1143619bd0d2d"
                  },
                  {
                      "file":  "fabric-api-0.136.1+1.21.8.jar",
