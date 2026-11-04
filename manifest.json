@@ -35,6 +35,11 @@
                      "file":  "PlayerAnimationLibFabric-1.1.1+mc.1.21.8.jar",
                      "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/PlayerAnimationLibFabric-1.1.1%2Bmc.1.21.8.jar",
                      "sha256":  "4a94cf5bb5fde5d6db718be056ecd129e39f1cc0f84ae3af59c80647837c39ce"
+                 },
+                 {
+                     "file":  "xaeroworldmap-fabric-1.21.8-1.47.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261104-121710477/xaeroworldmap-fabric-1.21.8-1.47.0.jar",
+                     "sha256":  "e900031f0ba282c9dee6a3ecd6f51fa00631ce0c1e0cec9fc3f7e8c968f61b66"
                  }
              ],
     "content":  {
