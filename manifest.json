@@ -7,24 +7,10 @@
     "maintenance":  false,
     "mods":  [
                  {
-                     "file":  "BROcKEN_Animation-1.9.1.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261029-095655691/BROcKEN_Animation-1.9.1.jar",
-                     "sha256":  "7ef9155767649d38b950f7cb8f8a20fb195d90261cf1076b120e8a23b53c2178"
-                 },
-                 {
-                     "file":  "brocken_gui-1.1.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/brocken_gui-1.1.0.jar",
-                     "sha256":  "9e324d847874576d67dd04d04373622af22130e9257fc6f8eaee5c91272ab2e5"
-                 },
-                 {
-                     "file":  "BROcKEN_Inventory-2.0.2.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261019-103734992/BROcKEN_Inventory-2.0.2.jar",
-                     "sha256":  "88298c5123495f4fc35cb17ff5c026ed9a5bb8486aaceb8ad82925bac081d940"
-                 },
-                 {
-                     "file":  "brocken_reich-client-2.3.1.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261102-115308868/brocken_reich-client-2.3.1.jar",
-                     "sha256":  "279a599587017bd99dcffdb95feaf4e092db73780ada0a29eda1143619bd0d2d"
+                     "file":  "brocken_reich-client-2.4.0.jar",
+                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261120-093140104/brocken_reich-client-2.4.0.jar",
+                     "sha256":  "1c1df34810135ccab9cc759ed031ef36c36f9c4cabc5b9c696a0d61878dae9ea",
+                     "modId":  "brocken_reich-client"
                  },
                  {
                      "file":  "fabric-api-0.136.1+1.21.8.jar",
@@ -35,16 +21,12 @@
                      "file":  "PlayerAnimationLibFabric-1.1.1+mc.1.21.8.jar",
                      "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/1.1.1/PlayerAnimationLibFabric-1.1.1%2Bmc.1.21.8.jar",
                      "sha256":  "4a94cf5bb5fde5d6db718be056ecd129e39f1cc0f84ae3af59c80647837c39ce"
-                 },
-                 {
-                     "file":  "xaeroworldmap-fabric-1.21.8-1.47.0.jar",
-                     "url":  "https://github.com/ABCDD0728/BROcKEN-REICH-Updates/releases/download/mods-20261104-121710477/xaeroworldmap-fabric-1.21.8-1.47.0.jar",
-                     "sha256":  "e900031f0ba282c9dee6a3ecd6f51fa00631ce0c1e0cec9fc3f7e8c968f61b66"
                  }
              ],
     "content":  {
                     "newsUrl":  "https://abcdd0728.github.io/BROcKEN-REICH-Updates/news.json",
                     "patchnotesUrl":  "https://abcdd0728.github.io/BROcKEN-REICH-Updates/patchnotes.json",
                     "aboutUrl":  "https://abcdd0728.github.io/BROcKEN-REICH-Updates/about.json"
-                }
+                },
+    "allowEmptyMods":  false
 }
